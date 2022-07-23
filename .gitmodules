@@ -1,0 +1,12 @@
+[submodule "src/lib/mdast-util-extended-table"]
+	path = src/lib/mdast-util-extended-table
+	url = https://github.com/TRIAEIOU/mdast-util-extended-table
+[submodule "src/lib/hast-util-exendeded-table-to-mdast"]
+	path = src/lib/hast-util-exendeded-table-to-mdast
+	url = https://github.com/TRIAEIOU/hast-util-exendeded-table-to-mdast
+[submodule "src/lib/mdast-util-extended-table-to-hast"]
+	path = src/lib/mdast-util-extended-table-to-hast
+	url = https://github.com/TRIAEIOU/mdast-util-extended-table-to-hast
+[submodule "src/lib/micromark-extension-extended-table"]
+	path = src/lib/micromark-extension-extended-table
+	url = https://github.com/TRIAEIOU/micromark-extension-extended-table
