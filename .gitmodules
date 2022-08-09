@@ -7,3 +7,7 @@
 [submodule "src/lib/micromark-extension-extended-table"]
 	path = src/lib/micromark-extension-extended-table
 	url = https://github.com/TRIAEIOU/micromark-extension-extended-table
+[submodule "src/lib/hast-util-to-mdast"]
+	path = src/lib/hast-util-to-mdast
+	url = https://github.com/TRIAEIOU/hast-util-to-mdast
+	branch = extended-table
