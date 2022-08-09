@@ -15,7 +15,7 @@ const src = `# GFM style table
 |a|b|
 |c|d|
 
-# Delimiter row table
+# Delimiter row table6
 
 |---|--:|
 |a|b|
