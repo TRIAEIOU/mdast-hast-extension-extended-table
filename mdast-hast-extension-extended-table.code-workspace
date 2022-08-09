@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.tree.indent": 25,
+		"workbench.tree.renderIndentGuides": "always",
+		"workbench.editor.highlightModifiedTabs": true,
+		"window.title": "${activeEditorMedium}${separator}${rootName}"
+	}
+}

@@ -24,7 +24,8 @@
     "src/**/*.ts",
     "src/**/*.js",
     "src.orig/**/*.ts",
-    "src.orig/**/*.js"
+    "src.orig/**/*.js",
+    "src/demo.ts"
   ],
   "exclude": [
     "node_modules",
