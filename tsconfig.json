@@ -2,8 +2,9 @@
   "compilerOptions": {
     "target": "ES2018",
     "module": "ES2020",
-    "outDir": "bin",
     "rootDir": "src",
+    "outDir": "dist",
+    "declaration": true,
     "strict": true,
     "noImplicitAny": false,
     "strictNullChecks": true,
@@ -22,15 +23,13 @@
   },
   "include": [
     "src/**/*.ts",
-    "src/**/*.js",
-    "src.orig/**/*.ts",
-    "src.orig/**/*.js",
-    "src/demo.ts"
+    "src/**/*.js"
   ],
   "exclude": [
     "node_modules",
     "<node_internals>/**",
-    "**/Archive/**/*"
+    "**/.archive",
+    "src/demo.ts"
   ],
   "ts-node": {
     "esm": true
