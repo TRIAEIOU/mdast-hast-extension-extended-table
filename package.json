@@ -5,7 +5,9 @@
   "description": "",
   "main": "src/index.js",
   "files": [
-    "src/"
+    "src/",
+    "./*.js",
+    "./*.d.ts"
   ],
   "exports": {
     "development": "./src/index.js",
