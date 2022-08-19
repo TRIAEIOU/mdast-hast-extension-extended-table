@@ -9,7 +9,7 @@
   ],
   "exports": {
     "development": "./src/index.js",
-    "default": "./dist/index.js"
+    "default": "./index.js"
   },
   "scripts": {
     "start": "set TS_NODE_FILES=true & node -r ts-node/register/transpile-only src/index.ts",
